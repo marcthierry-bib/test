@@ -22,4 +22,8 @@ Git ? Kesako ?
 
 "Limits" 
 
-> This repository uses reveal.js to create slides 
+> This repository uses reveal.js to create slides
+
+
+
+et voila 
